@@ -1,6 +1,0 @@
-C:\git\FSharpMVC3Starter\src\Core\bin\Release\Core.XML
-C:\git\FSharpMVC3Starter\src\Core\bin\Release\Core.dll
-C:\git\FSharpMVC3Starter\src\Core\bin\Release\Core.pdb
-C:\git\FSharpMVC3Starter\src\Core\obj\Release\ResolveAssemblyReference.cache
-C:\git\FSharpMVC3Starter\src\Core\obj\Release\Core.dll
-C:\git\FSharpMVC3Starter\src\Core\obj\Release\Core.pdb

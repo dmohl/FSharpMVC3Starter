@@ -1,0 +1,26 @@
+<VSTemplate Version="2.0.0" Type="ProjectGroup"
+    xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+    <TemplateData>
+        <Name>F# and C# Web Application (ASP.NET, MVC 3)</Name>
+        <Description>F# and C# Web Application (ASP.NET, MVC 3)</Description>
+        <Icon>__TemplateIcon.ico</Icon>
+        <ProjectType>FSharp</ProjectType>
+		<ProjectSubType>ASPNET</ProjectSubType>
+    </TemplateData>
+    <TemplateContent>
+        <ProjectCollection>
+            <ProjectTemplateLink ProjectName="Web">
+                Web\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+            <ProjectTemplateLink ProjectName="Controllers">
+                Controllers\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+            <ProjectTemplateLink ProjectName="Core">
+                Core\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+            <ProjectTemplateLink ProjectName="Models">
+                Models\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+        </ProjectCollection>
+    </TemplateContent>
+</VSTemplate>

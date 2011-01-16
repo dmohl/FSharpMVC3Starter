@@ -53,12 +53,12 @@
     <Compile Include="HomeControllerTests.fs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Controllers\Controllers.fsproj">
+    <ProjectReference Include="..\..\Controllers\Controllers.fsproj">
       <Name>Controllers</Name>
       <Project>{1d53faa1-798d-4560-aa93-49679cc58b3b}</Project>
       <Private>True</Private>
     </ProjectReference>
-    <ProjectReference Include="..\..\src\Models\Models.fsproj">
+    <ProjectReference Include="..\..\Models\Models.fsproj">
       <Name>Models</Name>
       <Project>{6173c6dc-1435-4a83-a5fe-51dc7e0798ac}</Project>
       <Private>True</Private>

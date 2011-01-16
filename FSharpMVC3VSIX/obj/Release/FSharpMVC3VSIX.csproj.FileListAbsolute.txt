@@ -3,6 +3,7 @@ C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\MicrosoftPublicLicense.txt
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\extension.vsixmanifest
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\ResolveAssemblyReference.cache
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\extension.vsixmanifest
-C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\FSharpMVC3.vsix
-C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\FSharpMVC3.dll
-C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\FSharpMVC3.pdb
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\ProjectTemplates\ASPNET\FSMVC3.zip
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\FSMVC3.vsix
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\FSMVC3.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\FSMVC3.pdb

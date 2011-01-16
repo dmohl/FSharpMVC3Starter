@@ -18,6 +18,26 @@
       <Folder Name="App_Data" TargetFolderName="App_Data" />
       <Folder Name="Content" TargetFolderName="Content">
         <ProjectItem ReplaceParameters="true" TargetFileName="Site.css">Site.css</ProjectItem>
+        <Folder Name="themes" TargetFolderName="themes">
+          <Folder Name="base" TargetFolderName="base">
+            <Folder Name="images" TargetFolderName="images">
+              <ProjectItem ReplaceParameters="false" TargetFileName="ui-bg_flat_0_aaaaaa_40x100.png">ui-bg_flat_0_aaaaaa_40x100.png</ProjectItem>
+              <ProjectItem ReplaceParameters="false" TargetFileName="ui-bg_flat_75_ffffff_40x100.png">ui-bg_flat_75_ffffff_40x100.png</ProjectItem>
+              <ProjectItem ReplaceParameters="false" TargetFileName="ui-bg_glass_55_fbf9ee_1x400.png">ui-bg_glass_55_fbf9ee_1x400.png</ProjectItem>
+              <ProjectItem ReplaceParameters="false" TargetFileName="ui-bg_glass_65_ffffff_1x400.png">ui-bg_glass_65_ffffff_1x400.png</ProjectItem>
+              <ProjectItem ReplaceParameters="false" TargetFileName="ui-bg_glass_75_dadada_1x400.png">ui-bg_glass_75_dadada_1x400.png</ProjectItem>
+              <ProjectItem ReplaceParameters="false" TargetFileName="ui-bg_glass_75_e6e6e6_1x400.png">ui-bg_glass_75_e6e6e6_1x400.png</ProjectItem>
+              <ProjectItem ReplaceParameters="false" TargetFileName="ui-bg_glass_95_fef1ec_1x400.png">ui-bg_glass_95_fef1ec_1x400.png</ProjectItem>
+              <ProjectItem ReplaceParameters="false" TargetFileName="ui-bg_highlight-soft_75_cccccc_1x100.png">ui-bg_highlight-soft_75_cccccc_1x100.png</ProjectItem>
+              <ProjectItem ReplaceParameters="false" TargetFileName="ui-icons_222222_256x240.png">ui-icons_222222_256x240.png</ProjectItem>
+              <ProjectItem ReplaceParameters="false" TargetFileName="ui-icons_2e83ff_256x240.png">ui-icons_2e83ff_256x240.png</ProjectItem>
+              <ProjectItem ReplaceParameters="false" TargetFileName="ui-icons_454545_256x240.png">ui-icons_454545_256x240.png</ProjectItem>
+              <ProjectItem ReplaceParameters="false" TargetFileName="ui-icons_888888_256x240.png">ui-icons_888888_256x240.png</ProjectItem>
+              <ProjectItem ReplaceParameters="false" TargetFileName="ui-icons_cd0a0a_256x240.png">ui-icons_cd0a0a_256x240.png</ProjectItem>
+            </Folder>
+            <ProjectItem ReplaceParameters="true" TargetFileName="jquery-ui.css">jquery-ui.css</ProjectItem>
+          </Folder>
+        </Folder>
       </Folder>
       <ProjectItem ReplaceParameters="true" TargetFileName="Global.asax">Global.asax</ProjectItem>
       <Folder Name="Properties" TargetFolderName="Properties">
@@ -27,15 +47,24 @@
         <ProjectItem ReplaceParameters="true" TargetFileName="jquery-1.4.1-vsdoc.js">jquery-1.4.1-vsdoc.js</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="jquery-1.4.1.js">jquery-1.4.1.js</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="jquery-1.4.1.min.js">jquery-1.4.1.min.js</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="jquery-1.4.4-vsdoc.js">jquery-1.4.4-vsdoc.js</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="jquery-1.4.4.js">jquery-1.4.4.js</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="jquery-1.4.4.min.js">jquery-1.4.4.min.js</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="jquery-ui.js">jquery-ui.js</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="jquery-ui.min.js">jquery-ui.min.js</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="jquery.blockUI.js">jquery.blockUI.js</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="jquery.cookie.js">jquery.cookie.js</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="jquery.corner.js">jquery.corner.js</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="jquery.form.js">jquery.form.js</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="jquery.jqgrid-3.6.4.min.js">jquery.jqgrid-3.6.4.min.js</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="jquery.json-2.2.min.js">jquery.json-2.2.min.js</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="jquery.unobtrusive-ajax.js">jquery.unobtrusive-ajax.js</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="jquery.unobtrusive-ajax.min.js">jquery.unobtrusive-ajax.min.js</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="jquery.validate-vsdoc.js">jquery.validate-vsdoc.js</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="jquery.validate.js">jquery.validate.js</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="jquery.validate.min.js">jquery.validate.min.js</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="jquery.validate.unobtrusive.js">jquery.validate.unobtrusive.js</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="jquery.validate.unobtrusive.min.js">jquery.validate.unobtrusive.min.js</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="MicrosoftAjax.debug.js">MicrosoftAjax.debug.js</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="MicrosoftAjax.js">MicrosoftAjax.js</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="MicrosoftMvcAjax.debug.js">MicrosoftMvcAjax.debug.js</ProjectItem>

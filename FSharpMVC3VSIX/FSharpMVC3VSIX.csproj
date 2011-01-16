@@ -8,8 +8,8 @@
     <ProjectGuid>{D3D20B64-B56E-41A2-B880-5CDBE8C600B1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FSharpMVC2VSIX</RootNamespace>
-    <AssemblyName>FSharpMVC2WebApplication</AssemblyName>
+    <RootNamespace>FSharpMVC3VSIX</RootNamespace>
+    <AssemblyName>FSharpMVC3</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <GeneratePkgDefFile>false</GeneratePkgDefFile>
     <IncludeAssemblyInVSIXContainer>false</IncludeAssemblyInVSIXContainer>
@@ -47,13 +47,10 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ProjectTemplates\ASPNET\FSharpMVC3.zip">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <IncludeInVSIX>true</IncludeInVSIX>
-    </Content>
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
+    <None Include="t\ASPNET\FSMVC3.zip" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

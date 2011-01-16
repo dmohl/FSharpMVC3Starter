@@ -1,0 +1,9 @@
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\FSharpMVCScreenShot.png
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\MicrosoftPublicLicense.txt
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\FSharpMVC2WebApplication.vsix
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\extension.vsixmanifest
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\FSharpMVC2WebApplication.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\FSharpMVC2WebApplication.pdb
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\extension.vsixmanifest
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\ProjectTemplates\ASPNET\FSharpMVC3.zip

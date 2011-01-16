@@ -1,0 +1,1 @@
+A starter MVC3 solution with controllers and models in F#.

@@ -1,0 +1,14 @@
+C:\git\FSharpMVC3Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC3.Controllers.Tests.XML
+C:\git\FSharpMVC3Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC3.Controllers.Tests.dll
+C:\git\FSharpMVC3Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC3.Controllers.Tests.pdb
+C:\git\FSharpMVC3Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\Controllers.dll
+C:\git\FSharpMVC3Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\Models.dll
+C:\git\FSharpMVC3Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\nunit.framework.dll
+C:\git\FSharpMVC3Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\SpecUnit.dll
+C:\git\FSharpMVC3Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\Controllers.pdb
+C:\git\FSharpMVC3Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\Controllers.xml
+C:\git\FSharpMVC3Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\Models.pdb
+C:\git\FSharpMVC3Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\Models.xml
+C:\git\FSharpMVC3Starter\test\FSharpMVC2.Controllers.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpMVC3Starter\test\FSharpMVC2.Controllers.Tests\obj\Debug\FSharpMVC3.Controllers.Tests.dll
+C:\git\FSharpMVC3Starter\test\FSharpMVC2.Controllers.Tests\obj\Debug\FSharpMVC3.Controllers.Tests.pdb

@@ -7,8 +7,21 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="2077" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="971" fromTop="9" />
+      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="971" fromTop="3" />
+      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="971" fromTop="0" />
+      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="500" fromTop="0" />
+      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="500" fromTop="0" />
+      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="971" fromTop="1" />
+      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="888" fromTop="5" />
+      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="1669" fromTop="5" />
+      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="1669" fromTop="7" />
+      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="2077" fromTop="0" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -20,4 +33,42 @@
     <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="controllersProject" priority="0" />
+      <Item value="modelsProject" priority="0" />
+      <Item value="var" priority="2" />
+      <Item value="references" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="reference" priority="1" />
+      <Item value="vsControllerProject" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="project" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="VSProject`0" priority="0" />
+      <Item value="Project`0" priority="0" />
+      <Item value="projects" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VSLangProj.References">
+      <Item value="Item`0" priority="2" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VSLangProj.VSProject">
+      <Item value="References" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VSLangProj.Reference">
+      <Item value="SourceProject" priority="0" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EnvDTE.Project">
+      <Item value="Name" priority="1" />
+      <Item value="Object" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

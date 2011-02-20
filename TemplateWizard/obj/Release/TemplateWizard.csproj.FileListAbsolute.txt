@@ -1,0 +1,15 @@
+C:\git\FSharpWindowsPhoneAppAndHost\TemplateWizard\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpWindowsPhoneAppAndHost\TemplateWizard\bin\Release\TemplateWizard.dll
+C:\git\FSharpWindowsPhoneAppAndHost\TemplateWizard\bin\Release\TemplateWizard.pdb
+C:\git\FSharpWindowsPhoneAppAndHost\TemplateWizard\obj\Release\TemplateWizard.dll
+C:\git\FSharpWindowsPhoneAppAndHost\TemplateWizard\obj\Release\TemplateWizard.pdb
+C:\git\FSharpWP7BasicTemplate\TemplateWizard\bin\Release\TemplateWizard.dll
+C:\git\FSharpWP7BasicTemplate\TemplateWizard\bin\Release\TemplateWizard.pdb
+C:\git\FSharpWP7BasicTemplate\TemplateWizard\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpWP7BasicTemplate\TemplateWizard\obj\Release\TemplateWizard.dll
+C:\git\FSharpWP7BasicTemplate\TemplateWizard\obj\Release\TemplateWizard.pdb
+C:\git\FSharpMVC3Starter\TemplateWizard\bin\Release\TemplateWizard.dll
+C:\git\FSharpMVC3Starter\TemplateWizard\bin\Release\TemplateWizard.pdb
+C:\git\FSharpMVC3Starter\TemplateWizard\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpMVC3Starter\TemplateWizard\obj\Release\TemplateWizard.dll
+C:\git\FSharpMVC3Starter\TemplateWizard\obj\Release\TemplateWizard.pdb

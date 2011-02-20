@@ -1,0 +1,6 @@
+C:\git\FSharpMVC3Starter\Core\bin\Debug\Core.XML
+C:\git\FSharpMVC3Starter\Core\bin\Debug\Core.dll
+C:\git\FSharpMVC3Starter\Core\bin\Debug\Core.pdb
+C:\git\FSharpMVC3Starter\Core\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpMVC3Starter\Core\obj\Debug\Core.dll
+C:\git\FSharpMVC3Starter\Core\obj\Debug\Core.pdb

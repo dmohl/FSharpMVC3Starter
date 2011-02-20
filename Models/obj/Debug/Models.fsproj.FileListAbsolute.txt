@@ -1,0 +1,6 @@
+C:\git\FSharpMVC3Starter\Models\bin\Debug\Models.XML
+C:\git\FSharpMVC3Starter\Models\bin\Debug\Models.dll
+C:\git\FSharpMVC3Starter\Models\bin\Debug\Models.pdb
+C:\git\FSharpMVC3Starter\Models\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpMVC3Starter\Models\obj\Debug\Models.dll
+C:\git\FSharpMVC3Starter\Models\obj\Debug\Models.pdb

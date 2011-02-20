@@ -1,0 +1,14 @@
+C:\git\FSharpMVC3Starter\Web\bin\Web.dll
+C:\git\FSharpMVC3Starter\Web\bin\Web.pdb
+C:\git\FSharpMVC3Starter\Web\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpMVC3Starter\Web\obj\Debug\Web.dll
+C:\git\FSharpMVC3Starter\Web\obj\Debug\Web.pdb
+C:\git\FSharpMVC3Starter\Web\bin\Controllers.dll
+C:\git\FSharpMVC3Starter\Web\bin\Core.dll
+C:\git\FSharpMVC3Starter\Web\bin\Models.dll
+C:\git\FSharpMVC3Starter\Web\bin\Controllers.pdb
+C:\git\FSharpMVC3Starter\Web\bin\Controllers.xml
+C:\git\FSharpMVC3Starter\Web\bin\Core.pdb
+C:\git\FSharpMVC3Starter\Web\bin\Core.xml
+C:\git\FSharpMVC3Starter\Web\bin\Models.pdb
+C:\git\FSharpMVC3Starter\Web\bin\Models.xml

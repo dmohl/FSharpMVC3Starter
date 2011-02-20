@@ -1,0 +1,9 @@
+C:\git\FSharpMVC3Starter\Controllers\bin\Debug\Controllers.XML
+C:\git\FSharpMVC3Starter\Controllers\bin\Debug\Controllers.dll
+C:\git\FSharpMVC3Starter\Controllers\bin\Debug\Controllers.pdb
+C:\git\FSharpMVC3Starter\Controllers\bin\Debug\Models.dll
+C:\git\FSharpMVC3Starter\Controllers\bin\Debug\Models.pdb
+C:\git\FSharpMVC3Starter\Controllers\bin\Debug\Models.xml
+C:\git\FSharpMVC3Starter\Controllers\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpMVC3Starter\Controllers\obj\Debug\Controllers.dll
+C:\git\FSharpMVC3Starter\Controllers\obj\Debug\Controllers.pdb

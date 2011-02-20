@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
+  <Identifier Id="FSharpMVC3VSIX.Microsoft.66348ad1-3daa-4bbc-9e18-8a4f8d4c5078">
+    <Name>F# and C# ASP.NET MVC3</Name>
+    <Author>Daniel Mohl</Author>
+    <Version>1.1</Version>
+    <Description xml:space="preserve">F# and C# Web Application (ASP.NET, MVC 3). You must install ASP.NET MVC 3 to use this template (http://www.asp.net/mvc/mvc3).</Description>
+    <Locale>1033</Locale>
+    <MoreInfoUrl>http://bloggemdano.blogspot.com/2011/01/new-f-aspnet-mvc-3-template-on-visual.html</MoreInfoUrl>
+    <License>MicrosoftPublicLicense.txt</License>
+    <PreviewImage>FSharpMVCScreenShot.png</PreviewImage>
+    <SupportedProducts>
+      <VisualStudio Version="10.0">
+        <Edition>Ultimate</Edition>
+        <Edition>Premium</Edition>
+        <Edition>Pro</Edition>
+      </VisualStudio>
+    </SupportedProducts>
+    <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.0" />
+  </Identifier>
+  <References />
+  <Content>
+    <Assembly AssemblyName="TemplateWizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=332e021ea0669a24">TemplateWizard.dll</Assembly>
+    <ProjectTemplate>ProjectTemplates</ProjectTemplate>
+  </Content>
+</Vsix>

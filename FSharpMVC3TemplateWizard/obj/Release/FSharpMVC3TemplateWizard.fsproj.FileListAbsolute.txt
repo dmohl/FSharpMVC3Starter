@@ -1,0 +1,6 @@
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\FSharpMVC3TemplateWizard.XML
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\FSharpMVC3TemplateWizard.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\FSharpMVC3TemplateWizard.pdb
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\obj\Release\FSharpMVC3TemplateWizard.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\obj\Release\FSharpMVC3TemplateWizard.pdb

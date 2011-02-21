@@ -56,9 +56,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TemplateWizard\TemplateWizard.csproj">
-      <Project>{44969257-E1AD-4254-B1A6-2CC29BD6149B}</Project>
-      <Name>TemplateWizard</Name>
+    <ProjectReference Include="..\FSharpMVC3TemplateWizard\FSharpMVC3TemplateWizard.fsproj">
+      <Project>{BD7AF5DA-25B8-41FA-A0E8-7A277BD65673}</Project>
+      <Name>FSharpMVC3TemplateWizard</Name>
       <IncludeOutputGroupsInVSIX>BuiltProjectOutputGroup%3bBuiltProjectOutputGroupDependencies%3bGetCopyToOutputDirectoryItems%3b</IncludeOutputGroupsInVSIX>
       <IncludeOutputGroupsInVSIXLocalOnly>DebugSymbolsProjectOutputGroup%3b</IncludeOutputGroupsInVSIXLocalOnly>
     </ProjectReference>

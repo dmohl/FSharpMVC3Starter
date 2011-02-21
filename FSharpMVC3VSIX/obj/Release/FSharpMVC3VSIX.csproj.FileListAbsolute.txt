@@ -7,5 +7,6 @@ C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\ProjectTemplates\ASPNET\FSMV
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\FSMVC3.vsix
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\FSMVC3.dll
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\FSMVC3.pdb
-C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\TemplateWizard.dll
-C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\TemplateWizard.pdb
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\FSharpMVC3TemplateWizard.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\FSharpMVC3TemplateWizard.pdb
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\FSharpMVC3TemplateWizard.xml

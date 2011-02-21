@@ -8,19 +8,19 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="2077" fromTop="0" />
+      <File id="D3D20B64-B56E-41A2-B880-5CDBE8C600B1/d:Properties/f:AssemblyInfo.cs" caret="338" fromTop="7" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="158" fromTop="7" />
     </RecentFiles>
     <RecentEdits>
-      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="971" fromTop="9" />
-      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="971" fromTop="3" />
-      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="971" fromTop="0" />
-      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="500" fromTop="0" />
-      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="500" fromTop="0" />
-      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="971" fromTop="1" />
-      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="888" fromTop="5" />
-      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="1669" fromTop="5" />
-      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="1669" fromTop="7" />
-      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="2077" fromTop="0" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="1110" fromTop="12" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="1019" fromTop="11" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="1303" fromTop="5" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="1955" fromTop="12" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="2309" fromTop="10" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="1955" fromTop="6" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="1975" fromTop="6" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="34" fromTop="0" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="158" fromTop="7" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

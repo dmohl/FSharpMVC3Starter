@@ -1,3 +1,4 @@
 <Modules>
   <Module PersistentId="44969257-E1AD-4254-B1A6-2CC29BD6149B" ModuleId="TemplateWizard" />
+  <Module PersistentId="D3D20B64-B56E-41A2-B880-5CDBE8C600B1" ModuleId="FSharpMVC3VSIX" />
 </Modules>

@@ -20,7 +20,7 @@
   </Identifier>
   <References />
   <Content>
-    <Assembly AssemblyName="TemplateWizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=332e021ea0669a24">TemplateWizard.dll</Assembly>
+    <Assembly AssemblyName="FSharpMVC3TemplateWizard, Version=0.0.0.0, Culture=neutral, PublicKeyToken=ba79043a32149735">FSharpMVC3TemplateWizard.dll</Assembly>
     <ProjectTemplate>ProjectTemplates</ProjectTemplate>
   </Content>
 </Vsix>

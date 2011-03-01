@@ -2,12 +2,13 @@
 
 open System
 open System.Collections.Generic
+open System.Collections
 open EnvDTE
 open Microsoft.VisualStudio.TemplateWizard
 open VSLangProj
 
-type TemplateWizard() =
-    [<DefaultValue>] val mutable Dte : DTE
+[<AutoOpen>]
+module TemplateWizardMod =
     let AddProjectReference (targetProject:Option<Project>) (projectToAddAsAReference:Option<Project>) =
         if ((Option.isSome targetProject) && (Option.isSome projectToAddAsAReference)) then
             let vsControllerProject = targetProject.Value.Object :?> VSProject
@@ -22,23 +23,27 @@ type TemplateWizard() =
                     buildProjectReferences()
                 | _ -> "End it" |> ignore
             buildProjectReferences()
+
+    let BuildProjectMap (projectEnumerator:IEnumerator) =
+        let rec buildProjects (projectMap:Map<string,Project>) = 
+            match projectEnumerator.MoveNext() with
+            | true -> let project = projectEnumerator.Current :?> Project
+                      projectMap 
+                      |> Map.add project.Name project
+                      |> buildProjects 
+            | _ -> projectMap
+        buildProjects Map.empty
+
+type TemplateWizard() =
+    let projectRefs = [("Controllers", "Models"); ("Web", "Core"); ("Web", "Models"); ("Web", "Controllers")]
+    [<DefaultValue>] val mutable Dte : DTE
     interface IWizard with
         member x.RunStarted (automationObject:Object, replacementsDictionary:Dictionary<string,string>, runKind:WizardRunKind, customParams:Object[]) =
             x.Dte <- automationObject :?> DTE
         member x.ProjectFinishedGenerating (project:Project) =
             try
-                let enumerator = x.Dte.Solution.Projects.GetEnumerator() 
-                let rec buildProjects (projectMap:Map<string,Project>) = 
-                    match enumerator.MoveNext() with
-                    | true -> let project = enumerator.Current :?> Project
-                              projectMap |> Map.add project.Name project
-                              |> buildProjects 
-                    | _ -> projectMap
-                let projects = buildProjects Map.empty
-                do AddProjectReference (projects.TryFind("Controllers")) (projects.TryFind("Models"))
-                do AddProjectReference (projects.TryFind("Web")) (projects.TryFind("Core"))
-                do AddProjectReference (projects.TryFind("Web")) (projects.TryFind("Models"))
-                do AddProjectReference (projects.TryFind("Web")) (projects.TryFind("Controllers"))
+                let projects = BuildProjectMap (x.Dte.Solution.Projects.GetEnumerator())
+                projectRefs |> Seq.iter (fun (target,source) -> do AddProjectReference (projects.TryFind(target)) (projects.TryFind(source)))
             with 
             | _ -> "Do Nothing" |> ignore
         member x.ProjectItemFinishedGenerating projectItem = "Do Nothing" |> ignore

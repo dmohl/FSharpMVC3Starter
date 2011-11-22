@@ -1,6 +1,0 @@
-C:\git\FSharpMVC3Starter\Models\bin\Release\Models.XML
-C:\git\FSharpMVC3Starter\Models\bin\Release\Models.dll
-C:\git\FSharpMVC3Starter\Models\bin\Release\Models.pdb
-C:\git\FSharpMVC3Starter\Models\obj\Release\ResolveAssemblyReference.cache
-C:\git\FSharpMVC3Starter\Models\obj\Release\Models.dll
-C:\git\FSharpMVC3Starter\Models\obj\Release\Models.pdb

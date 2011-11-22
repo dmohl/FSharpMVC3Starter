@@ -12,8 +12,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>FSharpMVC3.Web</RootNamespace>
     <AssemblyName>Web</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>$targetframeworkversion$</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>false</UseIISExpress>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -137,17 +138,9 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Controllers\Controllers.fsproj">
-      <Project>{1D53FAA1-798D-4560-AA93-49679CC58B3B}</Project>
-      <Name>Controllers</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Core\Core.fsproj">
-      <Project>{D60E704B-7D74-41FF-98B5-E0EC68FC6D22}</Project>
-      <Name>Core</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Models\Models.fsproj">
-      <Project>{6173C6DC-1435-4A83-A5FE-51DC7E0798AC}</Project>
-      <Name>Models</Name>
+    <ProjectReference Include="..\App\App.fsproj">
+      <Project>{7D2BA8C8-DEA0-4DC1-8C5E-899BB3BC771B}</Project>
+      <Name>App</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

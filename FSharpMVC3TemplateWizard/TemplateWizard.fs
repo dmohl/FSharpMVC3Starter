@@ -35,7 +35,7 @@ module TemplateWizardMod =
         buildProjects Map.empty
 
 type TemplateWizard() =
-    let projectRefs = [("Controllers", "Models"); ("Web", "Core"); ("Web", "Models"); ("Web", "Controllers")]
+    let projectRefs = [("Web", "App")]
     [<DefaultValue>] val mutable Dte : DTE
     interface IWizard with
         member x.RunStarted (automationObject:Object, replacementsDictionary:Dictionary<string,string>, 

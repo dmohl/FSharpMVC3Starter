@@ -1,0 +1,6 @@
+C:\git\FSharpMVC3Starter\App\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpMVC3Starter\App\bin\Release\App.XML
+C:\git\FSharpMVC3Starter\App\bin\Release\App.dll
+C:\git\FSharpMVC3Starter\App\bin\Release\App.pdb
+C:\git\FSharpMVC3Starter\App\obj\Release\App.dll
+C:\git\FSharpMVC3Starter\App\obj\Release\App.pdb

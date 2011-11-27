@@ -49,3 +49,9 @@ C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# and C# ASP.NET MVC3\1.4\\MicrosoftPublicLicense.txt
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# and C# ASP.NET MVC3\1.4\ProjectTemplates\ASPNET\\FSMVC3.zip
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# and C# ASP.NET MVC3\1.4\\FSharpMVC3TemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.4\\FSharpMVC3TemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.4\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.4\\FSharpMVCScreenShot.png
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.4\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.4\ProjectTemplates\ASPNET\\FSMVC3.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.4\\FSharpMVC3TemplateWizard.pdb

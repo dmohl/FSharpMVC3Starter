@@ -1,55 +1,82 @@
 ﻿namespace FSharpMVC3TemplateWizard
 
 open System
+open System.IO
+open System.Windows.Forms
 open System.Collections.Generic
-open System.Collections
 open EnvDTE
+open EnvDTE80
+open Microsoft.VisualStudio.Shell
 open Microsoft.VisualStudio.TemplateWizard
 open VSLangProj
-
-[<AutoOpen>]
-module TemplateWizardMod =
-    let AddProjectReference (target:Option<Project>) (projectToReference:Option<Project>) =
-        if ((Option.isSome target) && (Option.isSome projectToReference)) then
-            let vsControllerProject = target.Value.Object :?> VSProject
-            let enumerator = vsControllerProject.References.GetEnumerator() 
-            enumerator.Reset()
-            let rec buildProjectReferences() = 
-                match enumerator.MoveNext() with
-                | true -> 
-                    let reference = enumerator.Current :?> Reference
-                    if reference.Name = projectToReference.Value.Name then reference.Remove()
-                    vsControllerProject.References.AddProject(projectToReference.Value) |> ignore
-                    buildProjectReferences()
-                | _ -> "End it" |> ignore
-            buildProjectReferences()
-
-    let BuildProjectMap (projectEnumerator:IEnumerator) =
-        let rec buildProjects (projectMap:Map<string,Project>) = 
-            match projectEnumerator.MoveNext() with
-            | true -> let project = projectEnumerator.Current :?> Project
-                      projectMap 
-                      |> Map.add project.Name project
-                      |> buildProjects 
-            | _ -> projectMap
-        buildProjects Map.empty
+open MsdnCsMvc3Dialog
 
 type TemplateWizard() =
-    let projectRefs = [("Web", "App")]
-    [<DefaultValue>] val mutable Dte : DTE
+    [<DefaultValue>] val mutable solution : Solution2
+    [<DefaultValue>] val mutable dte : DTE
+    [<DefaultValue>] val mutable dte2 : DTE2
+    [<DefaultValue>] val mutable serviceProvider : IServiceProvider
+    [<DefaultValue>] val mutable destinationPath : string
+    [<DefaultValue>] val mutable safeProjectName : string
+    let mutable selectedWebProjectName = "Razor"
     interface IWizard with
-        member x.RunStarted (automationObject:Object, replacementsDictionary:Dictionary<string,string>, 
-                             runKind:WizardRunKind, customParams:Object[]) =
-            x.Dte <- automationObject :?> DTE
-        member x.ProjectFinishedGenerating (project:Project) =
+        member this.RunStarted (automationObject:Object, 
+                                replacementsDictionary:Dictionary<string,string>, 
+                                runKind:WizardRunKind, customParams:Object[]) =
+            this.dte <- automationObject :?> DTE
+            this.dte2 <- automationObject :?> DTE2
+            this.solution <- this.dte2.Solution :?> Solution2
+            this.serviceProvider <- new ServiceProvider(automationObject :?> 
+                                     Microsoft.VisualStudio.OLE.Interop.IServiceProvider)
+            this.destinationPath <- replacementsDictionary.["$destinationdirectory$"]
+            this.safeProjectName <- replacementsDictionary.["$safeprojectname$"]
+
+            let dialog = new TemplateWizardDialog()
+            match dialog.ShowDialog().Value with
+            | true -> 
+                selectedWebProjectName <- match dialog.SelectedViewEngine with
+                                          | "ASPX" -> "Web"
+                                          | _ -> dialog.SelectedViewEngine
+            | _ ->
+                raise (new WizardCancelledException())
+        member this.ProjectFinishedGenerating project = "Not Implemented" |> ignore
+        member this.ProjectItemFinishedGenerating projectItem = "Not Implemented" |> ignore
+        member this.ShouldAddProjectItem filePath = true
+        member this.BeforeOpeningFile projectItem = "Not Implemented" |> ignore
+        member this.RunFinished() = 
+            let currentCursor = Cursor.Current
+            Cursor.Current <- Cursors.WaitCursor
             try
-                let projects = BuildProjectMap (x.Dte.Solution.Projects.GetEnumerator())
-                projectRefs 
-                |> Seq.iter (fun (target,source) -> 
-                             do AddProjectReference (projects.TryFind target) (projects.TryFind source))
-            with 
-            | _ -> "Do Nothing" |> ignore
-        member x.ProjectItemFinishedGenerating projectItem = "Do Nothing" |> ignore
-        member x.ShouldAddProjectItem filePath = true
-        member x.BeforeOpeningFile projectItem = "Do Nothing" |> ignore
-        member x.RunFinished() = "Do Nothing" |> ignore
+                let webName = this.safeProjectName + "Web"
+                let webAppName = this.safeProjectName + "App"
+                let templatePath = this.solution.GetProjectTemplate("FSMVC3.zip", "FSharp")
+                try
+                    let AddProject status projectVsTemplateName projectName =
+                        this.dte2.StatusBar.Text <- status
+                        let path = templatePath.Replace("FSMVC3.vstemplate", projectVsTemplateName)
+                        this.solution.AddFromTemplate(path, Path.Combine(this.destinationPath, projectName), 
+                            projectName, false) |> ignore
+                    AddProject "Installing the C# Web project..." 
+                        (Path.Combine(selectedWebProjectName, selectedWebProjectName+ ".vstemplate")) webName
+                    AddProject "Adding the F# Web App project..." 
+                        (Path.Combine("App", "App.vstemplate")) webAppName
+
+                    let projects = BuildProjectMap (this.dte.Solution.Projects)
+
+                    this.dte2.StatusBar.Text <- "Adding NuGet packages..."
+                    (projects.TryFind webName).Value |> InstallPackages this.serviceProvider 
+                    <| ["jQuery.vsdoc"; "jQuery.Validation"; "jQuery.UI.Combined"; "Modernizr"; "EntityFramework"]
+
+                    this.dte2.StatusBar.Text <- "Updating project references..."
+                    [(webName, webAppName)]
+                    |> BuildProjectReferences projects 
+                with
+                | ex -> failwith (sprintf "%s\n\r%s\n\r%s\n\r%s\n\r%s" 
+                            "The project creation has failed."
+                            "Ensure that you have installed the ASP.NET MVC 3 Tools Refresh." 
+                            "See http://bit.ly/mvc3-tools-refresh for more information."
+                            "The actual exception message is: "
+                            ex.Message)
+            finally
+                Cursor.Current <- currentCursor
+            

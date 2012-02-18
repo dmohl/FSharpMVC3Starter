@@ -8,5 +8,9 @@ C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\FSMVC3.vsix
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\FSMVC3.dll
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\FSMVC3.pdb
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\FSharpMVC3TemplateWizard.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\NuGet.VisualStudio.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\MsdnCsMvc3Dialog.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\NuGet.Core.dll
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\FSharpMVC3TemplateWizard.pdb
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\FSharpMVC3TemplateWizard.xml
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\MsdnCsMvc3Dialog.pdb

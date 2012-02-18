@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<VSTemplate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Type="Project" Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+  <TemplateData>
+    <Name>FSharpMVC3.Web</Name>
+    <Description>No Description</Description>
+    <Icon>__Template_small.png</Icon>
+    <PreviewImage>__Template_large.png</PreviewImage>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType />
+    <SortOrder>1000</SortOrder>
+    <DefaultName>FSharpMVC3Web</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <LocationField>Enabled</LocationField>
+  </TemplateData>
+  <TemplateContent>
+    <Project File="Web.csproj" TargetFileName="Web.csproj" ReplaceParameters="true">
+      <ProjectItem TargetFileName="site.css" ReplaceParameters="false">content\site.css</ProjectItem>
+      <ProjectItem TargetFileName="ui-bg_flat_0_aaaaaa_40x100.png" ReplaceParameters="false">content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png</ProjectItem>
+      <ProjectItem TargetFileName="ui-bg_flat_75_ffffff_40x100.png" ReplaceParameters="false">content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png</ProjectItem>
+      <ProjectItem TargetFileName="ui-bg_glass_55_fbf9ee_1x400.png" ReplaceParameters="false">content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png</ProjectItem>
+      <ProjectItem TargetFileName="ui-bg_glass_65_ffffff_1x400.png" ReplaceParameters="false">content\themes\base\images\ui-bg_glass_65_ffffff_1x400.png</ProjectItem>
+      <ProjectItem TargetFileName="ui-bg_glass_75_dadada_1x400.png" ReplaceParameters="false">content\themes\base\images\ui-bg_glass_75_dadada_1x400.png</ProjectItem>
+      <ProjectItem TargetFileName="ui-bg_glass_75_e6e6e6_1x400.png" ReplaceParameters="false">content\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png</ProjectItem>
+      <ProjectItem TargetFileName="ui-bg_glass_95_fef1ec_1x400.png" ReplaceParameters="false">content\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png</ProjectItem>
+      <ProjectItem TargetFileName="ui-bg_highlight-soft_75_cccccc_1x100.png" ReplaceParameters="false">content\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png</ProjectItem>
+      <ProjectItem TargetFileName="ui-icons_222222_256x240.png" ReplaceParameters="false">content\themes\base\images\ui-icons_222222_256x240.png</ProjectItem>
+      <ProjectItem TargetFileName="ui-icons_2e83ff_256x240.png" ReplaceParameters="false">content\themes\base\images\ui-icons_2e83ff_256x240.png</ProjectItem>
+      <ProjectItem TargetFileName="ui-icons_454545_256x240.png" ReplaceParameters="false">content\themes\base\images\ui-icons_454545_256x240.png</ProjectItem>
+      <ProjectItem TargetFileName="ui-icons_888888_256x240.png" ReplaceParameters="false">content\themes\base\images\ui-icons_888888_256x240.png</ProjectItem>
+      <ProjectItem TargetFileName="ui-icons_cd0a0a_256x240.png" ReplaceParameters="false">content\themes\base\images\ui-icons_cd0a0a_256x240.png</ProjectItem>
+      <ProjectItem TargetFileName="jquery-ui.css" ReplaceParameters="false">content\themes\base\jquery-ui.css</ProjectItem>
+      <ProjectItem TargetFileName="global.asax" ReplaceParameters="true">global.asax</ProjectItem>
+      <ProjectItem TargetFileName="assemblyinfo.cs" ReplaceParameters="true">properties\assemblyinfo.cs</ProjectItem>
+      <ProjectItem TargetFileName="jquery-1.4.1-vsdoc.js" ReplaceParameters="false">scripts\jquery-1.4.1-vsdoc.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery-1.4.1.js" ReplaceParameters="false">scripts\jquery-1.4.1.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery-1.4.1.min.js" ReplaceParameters="false">scripts\jquery-1.4.1.min.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery-1.4.4-vsdoc.js" ReplaceParameters="false">scripts\jquery-1.4.4-vsdoc.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery-1.4.4.js" ReplaceParameters="false">scripts\jquery-1.4.4.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery-1.4.4.min.js" ReplaceParameters="false">scripts\jquery-1.4.4.min.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery-ui.js" ReplaceParameters="false">scripts\jquery-ui.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery-ui.min.js" ReplaceParameters="false">scripts\jquery-ui.min.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery.blockui.js" ReplaceParameters="false">scripts\jquery.blockui.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery.cookie.js" ReplaceParameters="false">scripts\jquery.cookie.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery.corner.js" ReplaceParameters="false">scripts\jquery.corner.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery.form.js" ReplaceParameters="false">scripts\jquery.form.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery.jqgrid-3.6.4.min.js" ReplaceParameters="false">scripts\jquery.jqgrid-3.6.4.min.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery.json-2.2.min.js" ReplaceParameters="false">scripts\jquery.json-2.2.min.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery.unobtrusive-ajax.js" ReplaceParameters="false">scripts\jquery.unobtrusive-ajax.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery.unobtrusive-ajax.min.js" ReplaceParameters="false">scripts\jquery.unobtrusive-ajax.min.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery.validate-vsdoc.js" ReplaceParameters="false">scripts\jquery.validate-vsdoc.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery.validate.js" ReplaceParameters="false">scripts\jquery.validate.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery.validate.min.js" ReplaceParameters="false">scripts\jquery.validate.min.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery.validate.unobtrusive.js" ReplaceParameters="false">scripts\jquery.validate.unobtrusive.js</ProjectItem>
+      <ProjectItem TargetFileName="jquery.validate.unobtrusive.min.js" ReplaceParameters="false">scripts\jquery.validate.unobtrusive.min.js</ProjectItem>
+      <ProjectItem TargetFileName="microsoftajax.debug.js" ReplaceParameters="false">scripts\microsoftajax.debug.js</ProjectItem>
+      <ProjectItem TargetFileName="microsoftajax.js" ReplaceParameters="false">scripts\microsoftajax.js</ProjectItem>
+      <ProjectItem TargetFileName="microsoftmvcajax.debug.js" ReplaceParameters="false">scripts\microsoftmvcajax.debug.js</ProjectItem>
+      <ProjectItem TargetFileName="microsoftmvcajax.js" ReplaceParameters="false">scripts\microsoftmvcajax.js</ProjectItem>
+      <ProjectItem TargetFileName="microsoftmvcvalidation.debug.js" ReplaceParameters="false">scripts\microsoftmvcvalidation.debug.js</ProjectItem>
+      <ProjectItem TargetFileName="microsoftmvcvalidation.js" ReplaceParameters="false">scripts\microsoftmvcvalidation.js</ProjectItem>
+      <ProjectItem TargetFileName="changepassword.aspx" ReplaceParameters="true">views\account\changepassword.aspx</ProjectItem>
+      <ProjectItem TargetFileName="changepasswordsuccess.aspx" ReplaceParameters="true">views\account\changepasswordsuccess.aspx</ProjectItem>
+      <ProjectItem TargetFileName="logon.aspx" ReplaceParameters="true">views\account\logon.aspx</ProjectItem>
+      <ProjectItem TargetFileName="register.aspx" ReplaceParameters="true">views\account\register.aspx</ProjectItem>
+      <ProjectItem TargetFileName="about.aspx" ReplaceParameters="true">views\home\about.aspx</ProjectItem>
+      <ProjectItem TargetFileName="index.aspx" ReplaceParameters="true">views\home\index.aspx</ProjectItem>
+      <ProjectItem TargetFileName="error.aspx" ReplaceParameters="true">views\shared\error.aspx</ProjectItem>
+      <ProjectItem TargetFileName="logonusercontrol.ascx" ReplaceParameters="false">views\shared\logonusercontrol.ascx</ProjectItem>
+      <ProjectItem TargetFileName="site.master" ReplaceParameters="true">views\shared\site.master</ProjectItem>
+      <ProjectItem TargetFileName="web.config" ReplaceParameters="false">views\web.config</ProjectItem>
+      <ProjectItem TargetFileName="web.config" ReplaceParameters="false">web.config</ProjectItem>
+      <ProjectItem TargetFileName="web.debug.config" ReplaceParameters="false">web.debug.config</ProjectItem>
+      <ProjectItem TargetFileName="web.release.config" ReplaceParameters="false">web.release.config</ProjectItem>
+    </Project>
+    <CustomParameters />
+  </TemplateContent>
+</VSTemplate>

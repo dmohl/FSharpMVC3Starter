@@ -1,57 +1,11 @@
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC 3\1.0\\extension.vsixmanifest
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC 3\1.0\\FSharpMVCScreenShot.png
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC 3\1.0\\MicrosoftPublicLicense.txt
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC 3\1.0\ProjectTemplates\\FSMVC3.zip
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC 3\1.0\ProjectTemplates\ASPNET\\FSMVC3.zip
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F#\C# ASP.NET MVC 3\1.0\\extension.vsixmanifest
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F#\C# ASP.NET MVC 3\1.0\\FSharpMVCScreenShot.png
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F#\C# ASP.NET MVC 3\1.0\\MicrosoftPublicLicense.txt
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F#\C# ASP.NET MVC 3\1.0\ProjectTemplates\ASPNET\\FSMVC3.zip
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.0\\extension.vsixmanifest
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.0\\FSharpMVCScreenShot.png
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.0\\MicrosoftPublicLicense.txt
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.0\ProjectTemplates\ASPNET\\FSMVC3.zip
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1\\extension.vsixmanifest
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1\\FSharpMVCScreenShot.png
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1\\MicrosoftPublicLicense.txt
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1\ProjectTemplates\ASPNET\\FSMVC3.zip
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1\\TemplateWizard.dll
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1\\TemplateWizard.pdb
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1.0.1\\TemplateWizard.dll
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1.0.1\\extension.vsixmanifest
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1.0.1\\FSharpMVCScreenShot.png
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1.0.1\\MicrosoftPublicLicense.txt
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1.0.1\ProjectTemplates\ASPNET\\FSMVC3.zip
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1.0.1\\TemplateWizard.pdb
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1.0.1\\FSharpMVC3TemplateWizard.dll
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1.0.1\\FSharpMVC3TemplateWizard.pdb
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1.0.2\\FSharpMVC3TemplateWizard.dll
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1.0.2\\extension.vsixmanifest
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1.0.2\\FSharpMVCScreenShot.png
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1.0.2\\MicrosoftPublicLicense.txt
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1.0.2\ProjectTemplates\ASPNET\\FSMVC3.zip
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.1.0.2\\FSharpMVC3TemplateWizard.pdb
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.2\\FSharpMVC3TemplateWizard.dll
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.2\\extension.vsixmanifest
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.2\\FSharpMVCScreenShot.png
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.2\\MicrosoftPublicLicense.txt
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.2\ProjectTemplates\ASPNET\\FSMVC3.zip
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.2\\FSharpMVC3TemplateWizard.pdb
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.3\\FSharpMVC3TemplateWizard.dll
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.3\\extension.vsixmanifest
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.3\\FSharpMVCScreenShot.png
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.3\\MicrosoftPublicLicense.txt
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.3\ProjectTemplates\ASPNET\\FSMVC3.zip
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# ASP.NET MVC3\1.3\\FSharpMVC3TemplateWizard.pdb
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# and C# ASP.NET MVC3\1.4\\FSharpMVC3TemplateWizard.dll
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# and C# ASP.NET MVC3\1.4\\extension.vsixmanifest
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# and C# ASP.NET MVC3\1.4\\FSharpMVCScreenShot.png
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# and C# ASP.NET MVC3\1.4\\MicrosoftPublicLicense.txt
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# and C# ASP.NET MVC3\1.4\ProjectTemplates\ASPNET\\FSMVC3.zip
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# and C# ASP.NET MVC3\1.4\\FSharpMVC3TemplateWizard.pdb
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.4\\FSharpMVC3TemplateWizard.dll
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.4\\extension.vsixmanifest
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.4\\FSharpMVCScreenShot.png
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.4\\MicrosoftPublicLicense.txt
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.4\ProjectTemplates\ASPNET\\FSMVC3.zip
-C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.4\\FSharpMVC3TemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.5\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.5\\FSharpMVCScreenShot.png
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.5\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.5\ProjectTemplates\ASPNET\\FSMVC3.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.5\\FSharpMVC3TemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.5\\NuGet.Core.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.5\\NuGet.VisualStudio.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.5\\System.Windows.Interactivity.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.5\\FSharpMVC3TemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.5\\MsdnCsMvc3Dialog.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.5\\MsdnCsMvc3Dialog.pdb

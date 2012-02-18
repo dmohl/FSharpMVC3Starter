@@ -9,21 +9,22 @@
   <RecentFiles>
     <RecentFiles>
       <File id="D3D20B64-B56E-41A2-B880-5CDBE8C600B1/d:Properties/f:AssemblyInfo.cs" caret="338" fromTop="7" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="398" fromTop="12" />
       <File id="d:Miscellaneous Files/f:App.fsproj/l:C!?git?FSharpMVC3Starter?App?App.fsproj" caret="1897" fromTop="16" />
-      <File id="d:Miscellaneous Files/f:Web.csproj/l:C!?git?FSharpMVC3Starter?Web?Web.csproj" caret="403" fromTop="7" />
+      <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml" caret="202" fromTop="0" />
+      <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml.cs" caret="430" fromTop="10" />
+      <File id="D3D20B64-B56E-41A2-B880-5CDBE8C600B1/f:MicrosoftPublicLicense.txt" caret="0" fromTop="0" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:NuGetService.fs" caret="375" fromTop="11" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:ProjectService.fs" caret="375" fromTop="9" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="1564" fromTop="11" />
+      <File id="d:Miscellaneous Files/f:Razor.csproj/l:C!?git?FSharpMVC3Starter?Razor?Razor.csproj" caret="962" fromTop="15" />
+      <File id="d:Miscellaneous Files/f:Web.csproj/l:C!?git?FSharpMVC3Starter?Web?Web.csproj" caret="725" fromTop="12" />
     </RecentFiles>
     <RecentEdits>
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="2250" fromTop="12" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="2250" fromTop="10" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="2250" fromTop="6" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="187" fromTop="7" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="107" fromTop="4" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="1459" fromTop="13" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="1146" fromTop="1" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="2250" fromTop="10" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="2048" fromTop="7" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="1616" fromTop="7" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="4251" fromTop="13" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="4251" fromTop="1" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="4251" fromTop="10" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="4251" fromTop="7" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="4251" fromTop="7" />
       <File id="d:Miscellaneous Files/f:Web.csproj/l:C!?git?FSharpMVC3Starter?Web?Web.csproj" caret="7017" fromTop="7" />
       <File id="d:Miscellaneous Files/f:App.fsproj/l:C!?git?FSharpMVC3Starter?App?App.fsproj" caret="2238" fromTop="12" />
       <File id="d:Miscellaneous Files/f:App.fsproj/l:C!?git?FSharpMVC3Starter?App?App.fsproj" caret="2291" fromTop="7" />
@@ -34,8 +35,18 @@
       <File id="d:Miscellaneous Files/f:App.fsproj/l:C!?git?FSharpMVC3Starter?App?App.fsproj" caret="670" fromTop="11" />
       <File id="d:Miscellaneous Files/f:App.fsproj/l:C!?git?FSharpMVC3Starter?App?App.fsproj" caret="1799" fromTop="15" />
       <File id="d:Miscellaneous Files/f:App.fsproj/l:C!?git?FSharpMVC3Starter?App?App.fsproj" caret="1897" fromTop="16" />
-      <File id="d:Miscellaneous Files/f:Web.csproj/l:C!?git?FSharpMVC3Starter?Web?Web.csproj" caret="857" fromTop="15" />
       <File id="d:Miscellaneous Files/f:Web.csproj/l:C!?git?FSharpMVC3Starter?Web?Web.csproj" caret="600" fromTop="10" />
+      <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml" caret="202" fromTop="0" />
+      <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml.cs" caret="430" fromTop="10" />
+      <File id="D3D20B64-B56E-41A2-B880-5CDBE8C600B1/f:MicrosoftPublicLicense.txt" caret="0" fromTop="0" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="3158" fromTop="18" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="2621" fromTop="17" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="3656" fromTop="13" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="2380" fromTop="6" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="629" fromTop="8" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="1564" fromTop="11" />
+      <File id="d:Miscellaneous Files/f:Web.csproj/l:C!?git?FSharpMVC3Starter?Web?Web.csproj" caret="855" fromTop="14" />
+      <File id="d:Miscellaneous Files/f:Razor.csproj/l:C!?git?FSharpMVC3Starter?Razor?Razor.csproj" caret="962" fromTop="15" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

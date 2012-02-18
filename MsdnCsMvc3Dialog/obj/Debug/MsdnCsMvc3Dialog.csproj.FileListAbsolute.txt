@@ -1,0 +1,60 @@
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\MsdnCsMvc3Dialog\bin\Debug\MsdnCsMvc3Dialog.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\MsdnCsMvc3Dialog\bin\Debug\MsdnCsMvc3Dialog.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\MsdnCsMvc3Dialog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog_MarkupCompile.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.g.resources
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.Properties.Resources.resources
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\MsdnCsMvc3Dialog\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\MsdnCsMvc3Dialog\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\MsdnCsMvc3Dialog\obj\Debug\TemplateWizardDialog.baml
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\MsdnCsMvc3Dialog\obj\Debug\TemplateWizardDialog.g.cs
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\bin\Debug\MsdnCsMvc3Dialog.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\bin\Debug\MsdnCsMvc3Dialog.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\TemplateWizardDialog.baml
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\TemplateWizardDialog.g.cs
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog_MarkupCompile.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.g.resources
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.Properties.Resources.resources
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\bin\Debug\MsdnCsMvc3Dialog.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\bin\Debug\MsdnCsMvc3Dialog.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\TemplateWizardDialog.baml
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\TemplateWizardDialog.g.cs
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog_MarkupCompile.cache
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.g.resources
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.Properties.Resources.resources
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.pdb
+C:\git\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\bin\Debug\MsdnCsMvc3Dialog.dll
+C:\git\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\bin\Debug\MsdnCsMvc3Dialog.pdb
+C:\git\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\ResolveAssemblyReference.cache
+C:\git\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\TemplateWizardDialog.baml
+C:\git\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\TemplateWizardDialog.g.cs
+C:\git\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog_MarkupCompile.cache
+C:\git\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.g.resources
+C:\git\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.Properties.Resources.resources
+C:\git\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\GenerateResource.read.1.tlog
+C:\git\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\GenerateResource.write.1.tlog
+C:\git\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.dll
+C:\git\MsdnFsVSIXExample\template\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.pdb
+C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\bin\Debug\MsdnCsMvc3Dialog.dll
+C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\bin\Debug\MsdnCsMvc3Dialog.pdb
+C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Debug\TemplateWizardDialog.baml
+C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Debug\TemplateWizardDialog.g.cs
+C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog_MarkupCompile.cache
+C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.g.resources
+C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.Properties.Resources.resources
+C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Debug\GenerateResource.read.1.tlog
+C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Debug\GenerateResource.write.1.tlog
+C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.dll
+C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Debug\MsdnCsMvc3Dialog.pdb

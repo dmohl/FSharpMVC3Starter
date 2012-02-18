@@ -9,3 +9,5 @@ C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Debug\ResolveAssemblyReference.cache
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Debug\FSMVC3.dll
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Debug\FSMVC3.pdb
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Debug\extension.vsixmanifest
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Debug\MsdnCsMvc3Dialog.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Debug\MsdnCsMvc3Dialog.pdb

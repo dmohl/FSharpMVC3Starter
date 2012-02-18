@@ -1,4 +1,4 @@
-﻿<Window x:Class="MsdnCsMvc3Dialog.TemplateWizardDialog"
+﻿<Window x:Class="CsFullMvc3Dialog.TemplateWizardDialog"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="F#/C# ASP.NET MVC 3 Project Creation Wizard"
         Height="350" Width="525" WindowStartupLocation="CenterOwner" WindowStyle="ToolWindow" ResizeMode="NoResize" ShowInTaskbar="False">

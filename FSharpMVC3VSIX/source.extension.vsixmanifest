@@ -25,8 +25,8 @@
   </Identifier>
   <References />
   <Content>
-    <Assembly AssemblyName="|FSharpMVC3TemplateWizard;AssemblyName|">|FSharpMVC3TemplateWizard|</Assembly>
-    <Assembly AssemblyName="|MsdnCsMvc3Dialog;AssemblyName|">|MsdnCsMvc3Dialog|</Assembly>
+    <Assembly AssemblyName="|FsFullExMVC3TemplateWizard;AssemblyName|">|FsFullExMVC3TemplateWizard|</Assembly>
+    <Assembly AssemblyName="|CsFullMvc3Dialog;AssemblyName|">|CsFullMvc3Dialog|</Assembly>
     <ProjectTemplate>ProjectTemplates</ProjectTemplate>
   </Content>
 </Vsix>

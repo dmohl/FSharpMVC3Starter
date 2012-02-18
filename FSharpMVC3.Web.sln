@@ -7,13 +7,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VSIX", "VSIX", "{63E5FA02-4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{98DFF363-4EE0-48A9-B473-A9C6AFE05490}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpMVC3TemplateWizard", "FSharpMVC3TemplateWizard\FSharpMVC3TemplateWizard.fsproj", "{BD7AF5DA-25B8-41FA-A0E8-7A277BD65673}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FsFullExMVC3TemplateWizard", "FSharpMVC3TemplateWizard\FsFullExMVC3TemplateWizard.fsproj", "{BD7AF5DA-25B8-41FA-A0E8-7A277BD65673}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "App", "App\App.fsproj", "{7D2BA8C8-DEA0-4DC1-8C5E-899BB3BC771B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razor", "Razor\Razor.csproj", "{F07952BB-4431-4722-AEF5-80FD7DC3E397}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsdnCsMvc3Dialog", "MsdnCsMvc3Dialog\MsdnCsMvc3Dialog.csproj", "{9EC3CEC7-7B86-405B-BC41-0306588B693C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsFullMvc3Dialog", "MsdnCsMvc3Dialog\CsFullMvc3Dialog.csproj", "{9EC3CEC7-7B86-405B-BC41-0306588B693C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

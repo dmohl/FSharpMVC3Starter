@@ -56,15 +56,15 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FSharpMVC3TemplateWizard\FSharpMVC3TemplateWizard.fsproj">
+    <ProjectReference Include="..\FSharpMVC3TemplateWizard\FsFullExMVC3TemplateWizard.fsproj">
       <Project>{BD7AF5DA-25B8-41FA-A0E8-7A277BD65673}</Project>
-      <Name>FSharpMVC3TemplateWizard</Name>
+      <Name>FsFullExMVC3TemplateWizard</Name>
       <IncludeOutputGroupsInVSIX>BuiltProjectOutputGroup%3bBuiltProjectOutputGroupDependencies%3bGetCopyToOutputDirectoryItems%3b</IncludeOutputGroupsInVSIX>
       <IncludeOutputGroupsInVSIXLocalOnly>DebugSymbolsProjectOutputGroup%3b</IncludeOutputGroupsInVSIXLocalOnly>
     </ProjectReference>
-    <ProjectReference Include="..\MsdnCsMvc3Dialog\MsdnCsMvc3Dialog.csproj">
+    <ProjectReference Include="..\MsdnCsMvc3Dialog\CsFullMvc3Dialog.csproj">
       <Project>{9EC3CEC7-7B86-405B-BC41-0306588B693C}</Project>
-      <Name>MsdnCsMvc3Dialog</Name>
+      <Name>CsFullMvc3Dialog</Name>
       <IncludeOutputGroupsInVSIX>BuiltProjectOutputGroup%3bBuiltProjectOutputGroupDependencies%3bGetCopyToOutputDirectoryItems%3b</IncludeOutputGroupsInVSIX>
       <IncludeOutputGroupsInVSIXLocalOnly>DebugSymbolsProjectOutputGroup%3b</IncludeOutputGroupsInVSIXLocalOnly>
     </ProjectReference>

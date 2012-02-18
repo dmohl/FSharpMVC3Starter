@@ -1,4 +1,4 @@
-﻿namespace FSharpMVC3TemplateWizard
+﻿namespace FsFullExMVC3TemplateWizard
 
 open System
 open System.IO
@@ -9,7 +9,7 @@ open EnvDTE80
 open Microsoft.VisualStudio.Shell
 open Microsoft.VisualStudio.TemplateWizard
 open VSLangProj
-open MsdnCsMvc3Dialog
+open CsFullMvc3Dialog
 
 type TemplateWizard() =
     [<DefaultValue>] val mutable solution : Solution2

@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace MsdnCsMvc3Dialog
+namespace CsFullMvc3Dialog
 {
     public partial class TemplateWizardDialog : Window
     {

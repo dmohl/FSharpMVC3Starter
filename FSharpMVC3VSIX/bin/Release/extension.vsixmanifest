@@ -25,8 +25,8 @@
   </Identifier>
   <References />
   <Content>
-    <Assembly AssemblyName="FSharpMVC3TemplateWizard, Version=0.0.0.0, Culture=neutral, PublicKeyToken=ba79043a32149735">FSharpMVC3TemplateWizard.dll</Assembly>
-    <Assembly AssemblyName="MsdnCsMvc3Dialog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6db65b46e659a2ac">MsdnCsMvc3Dialog.dll</Assembly>
+    <Assembly AssemblyName="FsFullExMVC3TemplateWizard, Version=0.0.0.0, Culture=neutral, PublicKeyToken=ba79043a32149735">FsFullExMVC3TemplateWizard.dll</Assembly>
+    <Assembly AssemblyName="CsFullMvc3Dialog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ba79043a32149735">CsFullMvc3Dialog.dll</Assembly>
     <ProjectTemplate>ProjectTemplates</ProjectTemplate>
   </Content>
 </Vsix>

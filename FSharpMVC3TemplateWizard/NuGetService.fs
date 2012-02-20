@@ -24,7 +24,7 @@ module NuGetService
         let installer = componentModel.GetService<IVsPackageInstaller>()
         let nugetPackageLocalPath = GetNuGetPackageLocalPath()
         packages 
-        |> Seq.iter (fun packageId -> 
+        |> Seq.iter (fun (packageId, version) -> 
                          installer.InstallPackage(nugetPackageLocalPath, 
-                             project, packageId, null, false))  
+                             project, packageId, new Version(version), false))  
 

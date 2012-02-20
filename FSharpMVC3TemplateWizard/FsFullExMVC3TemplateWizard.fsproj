@@ -60,8 +60,10 @@
     </Reference>
     <Reference Include="mscorlib" />
     <Reference Include="FSharp.Core" />
-    <Reference Include="NuGet.Core">
+    <Reference Include="NuGet.Core, Version=1.0.11220.104, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
       <HintPath>..\lib\NuGet.Core.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <Private>True</Private>
     </Reference>
     <Reference Include="NuGet.VisualStudio">
       <HintPath>..\lib\NuGet.VisualStudio.dll</HintPath>

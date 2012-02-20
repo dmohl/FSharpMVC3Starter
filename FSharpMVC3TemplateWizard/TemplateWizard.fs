@@ -65,7 +65,7 @@ type TemplateWizard() =
 
                     this.dte2.StatusBar.Text <- "Adding NuGet packages..."
                     (projects.TryFind webName).Value |> InstallPackages this.serviceProvider 
-                    <| ["jQuery.vsdoc"; "jQuery.Validation"; "jQuery.UI.Combined"; "Modernizr"; "EntityFramework"]
+                    <| [("jQuery.vsdoc", "1.5.1"); ("jQuery.Validation", "1.8.0"); ("jQuery.UI.Combined", "1.8.11"); ("Modernizr", "1.7"); ("EntityFramework", "4.1.10331.0")]
 
                     this.dte2.StatusBar.Text <- "Updating project references..."
                     [(webName, webAppName)]

@@ -1,7 +1,6 @@
 C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\FSharpMVC3TemplateWizard.XML
 C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\FsFullExMVC3TemplateWizard.dll
 C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\FsFullExMVC3TemplateWizard.pdb
-C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\NuGet.Core.dll
 C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\NuGet.VisualStudio.dll
 C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\System.Windows.Interactivity.dll
 C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\System.Windows.Interactivity.xml
@@ -19,3 +18,4 @@ C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\obj\Release\FsFullExMVC3Templa
 C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\obj\Release\FsFullExMVC3TemplateWizard.pdb
 C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\CsFullMvc3Dialog.dll
 C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\CsFullMvc3Dialog.pdb
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\NuGet.Core.dll

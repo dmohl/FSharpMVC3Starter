@@ -19,3 +19,13 @@ C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\obj\Release\FsFullExMVC3Templa
 C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\CsFullMvc3Dialog.dll
 C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\CsFullMvc3Dialog.pdb
 C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\NuGet.Core.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\EnvDTE.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\EnvDTE80.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\Microsoft.VisualStudio.Shell.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\VSLangProj.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\Microsoft.VisualStudio.OLE.Interop.xml
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\Microsoft.VisualStudio.Shell.xml
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml

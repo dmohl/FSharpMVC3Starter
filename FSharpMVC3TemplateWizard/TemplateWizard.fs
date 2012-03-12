@@ -62,10 +62,19 @@ type TemplateWizard() =
                         (Path.Combine("App", "App.vstemplate")) webAppName
 
                     let projects = BuildProjectMap (this.dte.Solution.Projects)
-
-                    this.dte2.StatusBar.Text <- "Adding NuGet packages..."
-                    (projects.TryFind webName).Value |> InstallPackages this.serviceProvider 
-                    <| [("jQuery.vsdoc", "1.5.1"); ("jQuery.Validation", "1.8.0"); ("jQuery.UI.Combined", "1.8.11"); ("Modernizr", "1.7"); ("EntityFramework", "4.1.10331.0")]
+                    try
+                        this.dte2.StatusBar.Text <- "Adding NuGet packages..."
+                        (projects.TryFind webName).Value |> InstallPackages this.serviceProvider (templatePath.Replace("FSMVC3.vstemplate", ""))
+                        <| [("jQuery.vsdoc", "1.5.1"); ("jQuery.Validation", "1.8.0"); ("jQuery.UI.Combined", "1.8.11"); ("Modernizr", "1.7"); ("EntityFramework", "4.1.10331.0")]
+                    with
+                    | ex -> failwith (sprintf "%s\n\r%s\n\r%s\n\r%s\n\r%s" 
+                                "The NuGet installation process failed."
+                                "Ensure that you have installed at least the beta version of ASP.NET MVC 4." 
+                                "See http://asp.net/mvc/mvc4 for more information."
+                                //("See http://asp.net/mvc/mvc3 for more information." + " Failed on NuGet Path = " + NuGetService.GetNuGetPackageLocalPath(this.serviceProvider))
+                                "The actual exception message is: "
+                                ex.Message)
+                        
 
                     this.dte2.StatusBar.Text <- "Updating project references..."
                     [(webName, webAppName)]

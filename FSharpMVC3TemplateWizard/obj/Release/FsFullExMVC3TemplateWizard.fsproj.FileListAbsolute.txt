@@ -29,3 +29,6 @@ C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\VSLangProj.dll
 C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\Microsoft.VisualStudio.OLE.Interop.xml
 C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\Microsoft.VisualStudio.Shell.xml
 C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\FSharp.Core.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\System.ComponentModel.Composition.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3TemplateWizard\bin\Release\FSharp.Core.xml

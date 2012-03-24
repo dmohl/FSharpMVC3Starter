@@ -129,3 +129,42 @@ C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# 
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.8\\Microsoft.MSXML.dll
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.8\\FsFullExMVC3TemplateWizard.pdb
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.8\\CsFullMvc3Dialog.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\CsFullMvc3Dialog.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\FsFullExMVC3TemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\FSharpMVCScreenShot.png
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\ProjectTemplates\ASPNET\\FSMVC3.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\EnvDTE.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\EnvDTE80.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\FSharp.Core.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\Microsoft.VisualStudio.Shell.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\NuGet.Core.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\NuGet.VisualStudio.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\System.ComponentModel.Composition.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\System.Windows.Interactivity.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\VSLangProj.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\stdole.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\System.Design.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\System.Drawing.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\System.Drawing.Design.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\System.Xml.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\System.ComponentModel.DataAnnotations.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\System.Xml.Linq.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\System.Runtime.Caching.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\System.Data.Services.Client.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\System.Security.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\Microsoft.CSharp.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\System.Runtime.Serialization.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\Microsoft.MSXML.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\FsFullExMVC3TemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# C# ASP.NET MVC3\1.9\\CsFullMvc3Dialog.pdb

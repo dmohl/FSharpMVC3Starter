@@ -1,7 +1,6 @@
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\FSharpMVCScreenShot.png
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\MicrosoftPublicLicense.txt
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\extension.vsixmanifest
-C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\ResolveAssemblyReference.cache
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\extension.vsixmanifest
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\ProjectTemplates\ASPNET\FSMVC3.zip
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\FSMVC3.vsix
@@ -13,3 +12,6 @@ C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\FsFullExMVC3TemplateWizard.d
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\FsFullExMVC3TemplateWizard.pdb
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\CsFullMvc3Dialog.dll
 C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\CsFullMvc3Dialog.pdb
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\Microsoft.VisualStudio.Settings.dll
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\bin\Release\Microsoft.VisualStudio.Settings.xml
+C:\git\FSharpMVC3Starter\FSharpMVC3VSIX\obj\Release\FSharpMVC3VSIX.csprojResolveAssemblyReference.cache

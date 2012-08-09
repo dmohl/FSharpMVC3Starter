@@ -1,12 +1,10 @@
 C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\bin\Release\CsFullMvc3Dialog.dll
 C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\bin\Release\CsFullMvc3Dialog.pdb
-C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Release\ResolveAssemblyReference.cache
 C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Release\TemplateWizardDialog.baml
 C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Release\TemplateWizardDialog.g.cs
 C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Release\CsFullMvc3Dialog_MarkupCompile.cache
 C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Release\CsFullMvc3Dialog.g.resources
 C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Release\CsFullMvc3Dialog.Properties.Resources.resources
-C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Release\GenerateResource.read.1.tlog
-C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Release\GenerateResource.write.1.tlog
 C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Release\CsFullMvc3Dialog.dll
 C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Release\CsFullMvc3Dialog.pdb
+C:\git\FSharpMVC3Starter\MsdnCsMvc3Dialog\obj\Release\CsFullMvc3Dialog.csproj.GenerateResource.Cache
